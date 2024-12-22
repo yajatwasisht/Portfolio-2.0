@@ -1,0 +1,60 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  scroll-behavior: smooth;
+}
+
+/* globals.css */
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: sans-serif;
+}
+
+.video-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1; /* Place the video behind content */
+  overflow: hidden;
+}
+
+.background-video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensure the video covers the screen */
+}
+
+
+/* CARD ANIMATIONS */
+.card {
+  transition: transform 1s;
+  transform-style: preserve-3d;
+}
+
+/* .card.flipped,
+.card .back {
+  transform: perspective(300px) rotateY(180deg);
+} */
+
+/* .card .back {
+  transition: opacity 0.3s ease 1s;
+} */
+
+.custom-toast {
+  background-color: #081e32 !important;
+
+  .Toastify__progress-bar {
+    background-color: #548fba;
+  }
+}
+
+.std-backdrop-blur {
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
