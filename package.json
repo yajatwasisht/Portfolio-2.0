@@ -14,6 +14,7 @@
     "@vercel/analytics": "^1.4.1",
     "@vercel/speed-insights": "^1.0.12",
     "ade-folio": "file:",
+    "blobity": "^0.2.3",
     "dotenv": "^16.4.5",
     "emailjs-com": "^3.2.0",
     "framer-motion": "^11.2.10",
