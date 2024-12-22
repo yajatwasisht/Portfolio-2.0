@@ -48,6 +48,12 @@ export default function Header() {
               About
             </Link>
             <Link
+              href="#resume"
+              className={`${sectionInView === "resume" && "text-white"} `}
+            >
+              Resume
+            </Link>
+            <Link
               href="#contact"
               className={`${sectionInView === "contact" && "text-white"} `}
             >
