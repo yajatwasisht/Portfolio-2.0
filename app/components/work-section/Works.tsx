@@ -41,7 +41,7 @@ export default function Works() {
     {
       title: "HOTEL GSAP",
       gitLink: "https://github.com/yajatwasisht/FOOD-GSAP.git",
-      liveLink: "https://hotelgsap.netlify.app/again.html",
+      liveLink: "https://hotelgsap.netlify.app/index.html",
       about:
         "This project is a visually dynamic website built using GSAP. The website features animations and interactive elements, providing an engaging user experience.",
       stack: ["HTML", "CSS", "GSAP", "tailwindcss"],
