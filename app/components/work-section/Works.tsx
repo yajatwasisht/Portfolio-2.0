@@ -116,7 +116,7 @@ export default function Works() {
           x: "1%", // Start from the right (off-screen)
         },
         {
-          x: "-90%", // End at the normal position (fully moved to the left)
+          x: "-60%", // End at the normal position (fully moved to the left)
           ease: "none", // Linear scrolling
           scrollTrigger: {
             trigger: section,
