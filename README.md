@@ -22,7 +22,7 @@ Check out the live website here:
 
 ## 🖼️ **Screenshot**  
 
-![Portfolio Screenshot](https://github.com/yajatwasisht/Portfolio-2.0/blob/078f150163ab1f4084042cdeef72b4a15bbcd7f0/portfolio.png  
+![Portfolio Screenshot](https://github.com/yajatwasisht/Portfolio-2.0/blob/078f150163ab1f4084042cdeef72b4a15bbcd7f0/portfolio.png)
 
 
 ---
