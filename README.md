@@ -1,35 +1,38 @@
-# Portfolio Website — v1
+# Portfolio-2.0
 
-I enjoy crafting websites that aid business growth and software that makes lives easier; Honing technology, to better ease lives and improve the world I live in.
+I enjoy crafting websites that aid business growth and software that makes lives easier; honing technology to better ease lives and improve the world I live in.  
 
-I created this website to showcase my capabilities on the frontend, and to deepen my understanding of framer motion. I learnt certain things building this site and by going through the code you stand a chance to learn new things too and better improve your frontend skills.
+I created this website to showcase my capabilities on the frontend and to deepen my understanding of **Framer Motion**, **GSAP**, and **SCSS**. I learned several things while building this site, and by exploring the code, you might also discover valuable insights to enhance your frontend development skills.  
 
-# Tech Stack
+---
 
-Technologies: React, Next.js, Typescript, Tailwind, React-hook-form, Email.js and Framer Motion <br>
-Hosting: Netlify
+## 🚀 **Tech Stack**  
+
+- **Technologies:** React, Next.js, TypeScript, Tailwind, React-hook-form, Email.js, Framer Motion, GSAP, SCSS  
+- **Hosting:** Netlify  
+
+---
+
+## 🌐 **Live Demo**  
+
+Check out the live website here:  
+👉 [Portfolio Live Demo](https://yajatportfolio2.netlify.app/)  
+
+---
+
+## 🖼️ **Screenshot**  
+
+![Portfolio Screenshot](https://github.com/yajatwasisht/Portfolio-2.0/blob/078f150163ab1f4084042cdeef72b4a15bbcd7f0/portfolio.png  
 
 
+---
 
-# Get started
+## 🛠️ **Get Started**  
 
-Clone the project
+Clone the project:  
 
-```
+```bash
 git clone https://github.com/yajatwasisht/Portfolio-2.0.git
-```
-
-Install dependencies
-
-```
-npm install
-```
-
-Start the development server
-
-```
-npm run dev
-```
 
 
 # License
