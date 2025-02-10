@@ -91,7 +91,7 @@ Crony Technovest, Jaipur (Internship)
       <div className={styles.downloadButtonContainer}>
         <a
            href={
-            "https://drive.google.com/file/d/1RJJHrJEhZ__8lHtzWf-kMHTCYFbWLirU/view?usp=sharing"
+            "https://drive.google.com/file/d/1Dl_VBHQ9DpEPngvwFtjtZquHY5VB8-T7/view?usp=sharing"
           }  // Update with the correct path
           download="Yajat_Wasisht_Resume.pdf"
           className={styles.downloadButton}
