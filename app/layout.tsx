@@ -11,7 +11,7 @@ const kumbhSans = Kumbh_Sans({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "YAJAT — PORTFOLIO",
   description:
-    "My passion lies in creating powerful solutions that drive website growth. Whether it’s developing a website to increase visibility or implementing software that automates manual processes, I enjoy helping websites evolve from their initial stage to a fully optimized, high-performing platform",
+    "A Frontend Engineer passionate about crafting next-gen software. I drive growth by crafting user experiences that blend aesthetics with functionality through my design and development skills. I thrive on turning ideas into seamless digital solutions.",
   keywords: [
     "frontend",
     "yajat wasisht",
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Yajat Portfolio — Software Engineer",
     description:
-      "Frontend Engineer passionate about crafting next-gen software. I thrive on turning ideas into seamless digital solutions through aesthetic and functional design.",
+      "My passion lies in creating powerful solutions that drive website growth. Whether it’s developing a website to increase visibility or implementing software that automates manual processes, I enjoy helping websites evolve from their initial stage to a fully optimized, high-performing platform",
     creator: "@YajatDeveloper",
     images: ["/yajat logo.png"],
   },
