@@ -11,7 +11,7 @@ const kumbhSans = Kumbh_Sans({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "YAJAT — PORTFOLIO",
   description:
-    "A Frontend Engineer passionate about crafting next-gen software. I drive growth by crafting user experiences that blend aesthetics with functionality through my design and development skills. I thrive on turning ideas into seamless digital solutions.",
+    "My passion lies in creating powerful solutions that drive website growth. Whether it’s developing a website to increase visibility or implementing software that automates manual processes, I enjoy helping websites evolve from their initial stage to a fully optimized, high-performing platform",
   keywords: [
     "frontend",
     "yajat wasisht",
